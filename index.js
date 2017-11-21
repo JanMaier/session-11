@@ -5,7 +5,7 @@ var vm = new Vue({
     var days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
 
     return  {
-    	person: 'Christian'
+    	person: ['Merkel', 'Seehofer', 'Lindner', 'Oezdemir', 'Steinmeier', 'Schulz']
     };
   }
 })
