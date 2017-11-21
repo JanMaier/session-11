@@ -5,8 +5,7 @@ var vm = new Vue({
     var days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
 
     return  {
-      now: now,
-      day: days[now.getDay()]
+    	person: 'Christian'
     };
   }
 })
