@@ -2,6 +2,13 @@
   
 }
 
-.color {
+.picto {
 	border: 2px solid rgb(49, 30, 189);
+	padding: 0px;
+	display: inline-block;
+	cursor: pointer;
+}
+
+.img-muted {
+	filter: grayscale(95%);
 }
