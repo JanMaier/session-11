@@ -6,7 +6,8 @@ var vm = new Vue({
    	var person = ['Merkel', 'Seehofer', 'Lindner', 'Oezdemir', 'Goering', 'Steinmeier', 'Schulz']
 
     return  {
-    	person: ['Merkel', 'Seehofer', 'Lindner', 'Oezdemir', 'Goering', 'Steinmeier', 'Schulz']
+    	person: ['Merkel', 'Seehofer', 'Lindner', 'Oezdemir', 'Goering', 'Steinmeier', 'Schulz'],
+    	isActive: false
     };
   }
 })
