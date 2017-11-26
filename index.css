@@ -9,6 +9,6 @@
 }
 
 .img-muted {
-	border: 2px solid rgb(49, 30, 189);
-	filter: grayscale(95%);
+	border: 3px solid rgb(227,74,51);
+	filter: opacity(50%) grayscale(65%);
 }
