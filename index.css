@@ -6,13 +6,9 @@
 	padding: 0px;
 	display: inline-block;
 	cursor: pointer;
-	border: 2px solid rgb(49, 30, 189);
-}
-
-.img-on {
-	border: 2px solid rgb(49, 30, 189);
 }
 
 .img-muted {
+	border: 2px solid rgb(49, 30, 189);
 	filter: grayscale(95%);
 }
