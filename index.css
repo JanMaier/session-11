@@ -2,6 +2,7 @@
   font-family: 'Libre Baskerville', serif;
 }
 
+
 .picto {
 	padding: 0px;
 	display: inline-block;
@@ -11,4 +12,8 @@
 .img-muted {
 	border: 3px solid rgb(227,74,51);
 	filter: opacity(50%) grayscale(65%);
+}
+
+#header {
+	background-image: url('/building.jpg');
 }
